@@ -49,6 +49,6 @@ Once all the questions have been answered (and/or the timer reaches zero), the t
 
 When "View Highscores" is clicked in the upper lefthand side of the page, the user is presented with the list of highscores
 
-![image](https://user-images.githubusercontent.com/87455097/133508429-7f15f1be-a865-4ae2-9d12-8eca5328d728.png)
+![image](https://user-images.githubusercontent.com/87455097/139506033-7e6bbf65-4921-4e9a-9b51-6f06d58c3d90.png)
 
 
